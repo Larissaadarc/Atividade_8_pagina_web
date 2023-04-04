@@ -1,0 +1,106 @@
+h1 {
+    padding: 2.5em 5px 25px 5px;
+    font-family: Montserrat;
+    color: #ffff;
+    font-weight: 400;
+    font-size: 1.125rem;
+    letter-spacing: .4em;
+    text-align: left;
+    text-transform: uppercase;
+    margin-left: 30px;
+}
+
+body {
+    background: #2B41A7;
+}
+
+header {
+    margin-left: -10px;
+    margin-top: -30px;
+    margin-right: -15px;
+    padding: 10px;
+    width: 100%;
+    background-color: #2B41A7;
+    text-align: right;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+    justify-content: start;
+}
+
+nav {
+    margin-left: -10px;
+    margin-top: -15px;
+    padding: 10px;
+    width: 100%;
+    background-color: #63B8FF;
+    text-align: right;
+}
+
+h2 {
+    position: absolute;
+    margin-top: -100px;
+    font-family: Coming Soon;
+    font-style: normal;
+    font-weight: 200;
+    letter-spacing: .2em;
+    text-align: left;
+    width: 590px;
+    height: 400px;
+}
+
+h3 {
+    position: absolute;
+    margin-top: -40px;
+    font-family: Glory;
+    font-style: normal;
+    font-weight: 399;
+    text-align: justify;
+}
+
+nav a {
+    color: black;
+    text-decoration: none;
+    padding: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+
+nav a:hover {
+    background-color: white;
+    color: #63B8FF;
+}
+
+img.AmericanBully {
+    padding: 15px;
+    position: relative;
+    width: 80px;
+    border-radius: 30px;
+}
+
+img.american {
+    position: relative;
+    margin-left: -400px;
+    max-width: 350px;
+   
+}
+ 
+main {
+    background-color: #63B8FF;
+    padding: 20px;
+    margin: 20px 10px;
+    border-radius: 5px;
+}
+
+section {
+    color: black;
+    background-color: #C6E2FF;
+    padding: 9%;
+    margin: 30px 10px;
+    border-radius: 5px;
+    position: relative;
+}
